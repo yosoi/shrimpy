@@ -1,0 +1,8 @@
+README.rst
+shrimpy/__init__.py
+shrimpy.egg-info/PKG-INFO
+shrimpy.egg-info/SOURCES.txt
+shrimpy.egg-info/dependency_links.txt
+shrimpy.egg-info/entry_points.txt
+shrimpy.egg-info/requires.txt
+shrimpy.egg-info/top_level.txt

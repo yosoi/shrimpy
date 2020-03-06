@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: shrimpy
+Version: 0.1.0
+Summary: A minimal engine suited for CLI choose-your-own-adventure games.
+Home-page: UNKNOWN
+Author: Yosoi
+Author-email: yosoi@protonmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6,<4.0
