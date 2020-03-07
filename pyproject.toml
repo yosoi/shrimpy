@@ -1,8 +1,15 @@
 [tool.poetry]
 name = "shrimpy"
-version = "0.1.12"
+version = "0.1.13"
 description = "A minimal engine for choose-your-own-adventure games."
 authors = ["Yosoi <yosoi@protonmail.com>"]
+license = "GPL-3.0-only"
+readme = "README.md"
+homepage = "https://github.com/yosoi/shrimpy"
+repository = "https://github.com/yosoi/shrimpy"
+classifiers = [
+    "Topic :: Games/Entertainment"
+]
 
 [tool.poetry.dependencies]
 python = "^3.6"
